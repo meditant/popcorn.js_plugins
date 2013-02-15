@@ -5,7 +5,7 @@ Démo : http://www.franck-rondot.com/webdocs-webdocumentaire/webdocs-et-html5.ht
 
 Popcorn.js plugins
 
-Plugins for mozilla popcorn.js
+Plugins for mozilla popcorn.js<br>
 Based on popcorn.js plugins
 
 Googlemaps_kml : add kml support for googlemap plugins
